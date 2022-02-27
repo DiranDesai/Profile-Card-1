@@ -125,3 +125,11 @@ input:focus, button:focus{
     text-align: center;
     margin: 30px 0;
 }
+
+@media(max-width: 770px){
+    .profile-container{
+        padding: 1rem;
+    }
+}
+
+
